@@ -1,0 +1,4 @@
+.nfs*
+results3d_*/
+*.out
+*.err
